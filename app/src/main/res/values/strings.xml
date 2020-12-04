@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">N2_Andrei</string>
+    <string name="bt_cadastro">cadastro</string>
+    <string name="bt_login">login</string>
+</resources>
